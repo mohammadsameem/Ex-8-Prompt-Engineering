@@ -29,5 +29,8 @@ Comparison between simple and detailed prompts
 
 Observations and analysis
 
+[EX8_AI_Video_Prompting_Techniques.docx](https://github.com/user-attachments/files/28498489/EX8_AI_Video_Prompting_Techniques.docx)
+
+
 Result:
 Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures.
